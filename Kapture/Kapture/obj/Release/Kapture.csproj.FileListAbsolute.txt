@@ -1,0 +1,11 @@
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\bin\Release\Kapture.exe.config
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\bin\Release\Kapture.exe
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\bin\Release\Kapture.pdb
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\bin\Release\KUI.dll
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\bin\Release\KUI.pdb
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.FrmSelect.resources
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.FrmSettings.resources
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.Properties.Resources.resources
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.csproj.GenerateResource.Cache
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.exe
+C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.pdb
