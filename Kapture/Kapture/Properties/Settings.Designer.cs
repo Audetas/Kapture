@@ -95,5 +95,17 @@ namespace Kapture.Properties {
                 this["ImageToClipboard"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool NotifyCompletion {
+            get {
+                return ((bool)(this["NotifyCompletion"]));
+            }
+            set {
+                this["NotifyCompletion"] = value;
+            }
+        }
     }
 }

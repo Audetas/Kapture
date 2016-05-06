@@ -113,6 +113,11 @@ namespace Kapture
             Hide();
         }
 
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
         private void lstUploads_DoubleClick(object sender, EventArgs e)
         {
             if (lstUploads.SelectedItem != null)
@@ -143,7 +148,11 @@ namespace Kapture
             try
             {
                 task();
-                _player.Play();
+
+                if (Settings.Default.NotifyCompletion)
+                    icoTray.ShowBalloonTip(1500, "Kapture", "Upload Complete!", ToolTipIcon.None);
+                else
+                    _player.Play();
             }
             catch (Exception ex)
             {

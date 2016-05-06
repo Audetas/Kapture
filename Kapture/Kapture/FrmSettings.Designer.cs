@@ -208,7 +208,7 @@
             this.sepBottom,
             this.btnExit});
             this.cmsTray.Name = "cmsTray";
-            this.cmsTray.Size = new System.Drawing.Size(177, 176);
+            this.cmsTray.Size = new System.Drawing.Size(177, 198);
             // 
             // btnSettings
             // 
@@ -266,6 +266,7 @@
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(176, 22);
             this.btnExit.Text = "Exit";
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // lbl1
             // 

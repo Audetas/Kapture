@@ -53,8 +53,10 @@ namespace Kapture
         private void FrmSelect_Paint(object sender, PaintEventArgs e)
         {
             if (Selected.Width > 0)
-                e.Graphics.FillRectangle(
-                    Brushes.Fuchsia, Selected);
+            {
+                e.Graphics.FillRectangle(Brushes.Fuchsia, Selected);
+                e.Graphics.DrawRectangle(Pens.Red, Selected);
+            }
         }
     }
 }

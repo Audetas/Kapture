@@ -9,3 +9,15 @@ C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.Properties.R
 C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.csproj.GenerateResource.Cache
 C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.exe
 C:\Users\Alec\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.pdb
+K:\OneDrive\Projects\Kapture\Kapture\bin\Release\Kapture.exe.config
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.exe
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.pdb
+K:\OneDrive\Projects\Kapture\Kapture\bin\Release\Kapture.exe
+K:\OneDrive\Projects\Kapture\Kapture\bin\Release\Kapture.pdb
+K:\OneDrive\Projects\Kapture\Kapture\bin\Release\KUI.dll
+K:\OneDrive\Projects\Kapture\Kapture\bin\Release\KUI.pdb
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.csprojResolveAssemblyReference.cache
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.FrmSelect.resources
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.FrmSettings.resources
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.Properties.Resources.resources
+K:\OneDrive\Projects\Kapture\Kapture\obj\Release\Kapture.csproj.GenerateResource.Cache
