@@ -25,3 +25,12 @@ K:\OneDrive\Projects\Kapture\Kapture\obj\Debug\Kapture.csproj.GenerateResource.C
 K:\Projects\Kapture\Kapture\bin\Debug\Kapture.exe.config
 K:\Projects\Kapture\Kapture\obj\Debug\Kapture.exe
 K:\Projects\Kapture\Kapture\obj\Debug\Kapture.pdb
+K:\Projects\Kapture\Kapture\bin\Debug\Kapture.exe
+K:\Projects\Kapture\Kapture\bin\Debug\Kapture.pdb
+K:\Projects\Kapture\Kapture\bin\Debug\KUI.dll
+K:\Projects\Kapture\Kapture\bin\Debug\KUI.pdb
+K:\Projects\Kapture\Kapture\obj\Debug\Kapture.csprojResolveAssemblyReference.cache
+K:\Projects\Kapture\Kapture\obj\Debug\Kapture.FrmSelect.resources
+K:\Projects\Kapture\Kapture\obj\Debug\Kapture.FrmSettings.resources
+K:\Projects\Kapture\Kapture\obj\Debug\Kapture.Properties.Resources.resources
+K:\Projects\Kapture\Kapture\obj\Debug\Kapture.csproj.GenerateResource.Cache
